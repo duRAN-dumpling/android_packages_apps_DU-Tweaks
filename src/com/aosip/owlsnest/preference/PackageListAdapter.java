@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.dirtyunicorns.support.preferences.PackageListAdapter;
+package com.aosip.owlsnest.preference;
 
 import android.content.Context;
 import android.content.Intent;
